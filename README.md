@@ -62,7 +62,7 @@ Experiments were performed on **Single-Layer CNN, Two-Layer CNN, and LeNet-5 arc
 ## 📖 References
 - C. Jin, H. Sun, S. Kimura. *"Sparse ternary connect: Convolutional neural networks using ternarized weights with enhanced sparsity."* ASP-DAC, 2018. [DOI:10.1109/ASPDAC.2018.8297304](https://doi.org/10.1109/ASPDAC.2018.8297304)  
 - C. Lin, B. Lai. *"Supporting compressed-sparse activations and weights on SIMD-like accelerator for sparse CNNs."* ASP-DAC, 2018. [DOI:10.1109/ASPDAC.2018.8297290](https://doi.org/10.1109/ASPDAC.2018.8297290)  
-- MNIST Dataset: [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)
+- MNIST Dataset: [https://www.kaggle.com/datasets/hojjatk/mnist-dataset](https://www.kaggle.com/datasets/hojjatk/mnist-dataset)]
 
 ---
 
