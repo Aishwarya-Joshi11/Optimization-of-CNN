@@ -68,5 +68,5 @@ Experiments were performed on **Single-Layer CNN, Two-Layer CNN, and LeNet-5 arc
 
 ## 👤 Author
 **Aishwarya Joshi**  
-📍 Bennett University (Deep Learning Intern, Remote, May–June 2020)  
+📍 Bennett University and LeadingIndia.AI (Deep Learning Intern, Remote, May–June 2020)  
 [LinkedIn](https://www.linkedin.com/in/aishwarya-j-822999188) | [GitHub](https://github.com/Aishwarya-Joshi11)
